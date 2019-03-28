@@ -1,4 +1,4 @@
-﻿// hello git
+﻿// hello git min
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;
